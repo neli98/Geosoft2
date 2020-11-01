@@ -28,14 +28,14 @@
 Quelle:
 
 ### Beispiele
-* Open Data Cube [mehr Informationen](https://www.opendatacube.org)
+* Open Data Cube ([mehr Informationen](https://www.opendatacube.org))
   * internationale Open-Source Initiative
   * Bereitstellung und Analyse von EO-Daten zur Unterstützung der Erreichung beispielsweise der SDG's
-* Next Generation Network Enabled Weather Project [mehr Informationen](https://en.wikipedia.org/wiki/Next_Generation_Network_Enabled_Weather)
+* Next Generation Network Enabled Weather Project ([mehr Informationen](https://en.wikipedia.org/wiki/Next_Generation_Network_Enabled_Weather))
   * Initiative der USA
   * 4D-Wetterdaten-Würfel
   * Analyse von Wetterdaten zur besseren Wettervorhersage und Optimierung des Flugverkehrs
-* Earth Server [mehr Informationen](https://www.earthserver.eu)
+* Earth Server ([mehr Informationen](https://www.earthserver.eu))
   * Initiative unterstützt durch die EU
   * Bereitstellung von 3D-Satellitendaten und 4D-Wetterdaten
 
