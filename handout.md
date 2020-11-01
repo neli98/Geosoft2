@@ -7,7 +7,7 @@
 * nützlich zur Strukturierung von Daten
 * beliebig viele Dimensionen möglich
 * Speicherung der Daten in einzelnen Elementen des Würfels
-  * leicht vorzustellen bei 3D-Würfel
+  * leicht vorzustellen bei 3D-Würfel (siehe untenstehende Grafik)
 * unterschiedliche Dimensionen ermöglichen dynamische Betrachtungsweisen der Daten aus verschiedenen Perspektiven
 * verschiedene Grundoperationen, wie z.B.:
   * Slice-Operation (Ausschneiden einer Datenscheibe)
@@ -44,6 +44,7 @@
 
 ### Vorteile
 * Bereitstellung eines zentralen Datenpools
+* Zugriff auf *Analysis Ready Data (ARD)*
 * flexibler Zugriff auf ausgewählte Datenausschnitte möglich
 * flexible Anwendbarkeit, z.B. über Cloud-Services oder lokal
 * Ermöglichung der (einfachen) Analyse großer Datenmengen
